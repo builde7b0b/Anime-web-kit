@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <title>cat-ears</title>
+  <g stroke="#322659" stroke-width="3" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M4 31 L15 32 M5 38 L15 37" fill="none" stroke-width="2.5"/>
+    <path d="M60 31 L49 32 M59 38 L49 37" fill="none" stroke-width="2.5"/>
+    <path d="M15 25 L17.5 7.5 L29.5 17" fill="#FFAFC9"/>
+    <path d="M49 25 L46.5 7.5 L34.5 17" fill="#FFAFC9"/>
+    <path d="M19.5 19.5 L20.5 12 L25.5 16.5" fill="#F26D9C" stroke-width="2.5"/>
+    <path d="M44.5 19.5 L43.5 12 L38.5 16.5" fill="#F26D9C" stroke-width="2.5"/>
+    <circle cx="32" cy="36" r="18" fill="#FFAFC9"/>
+    <circle cx="25" cy="35" r="2" fill="#322659" stroke="none"/>
+    <circle cx="39" cy="35" r="2" fill="#322659" stroke="none"/>
+    <path d="M30.5 39.5 L33.5 39.5 L32 41.5 Z" fill="#322659" stroke="none"/>
+    <path d="M30 44 Q32 46 34 44" fill="none" stroke-width="2.5"/>
+    <ellipse cx="22.5" cy="39.5" rx="2.7" ry="1.7" fill="#F26D9C" stroke="none" opacity="0.6"/>
+    <ellipse cx="41.5" cy="39.5" rx="2.7" ry="1.7" fill="#F26D9C" stroke="none" opacity="0.6"/>
+  </g>
+</svg>

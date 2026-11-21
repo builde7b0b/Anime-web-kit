@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <title>torii-gate</title>
+  <g stroke="#322659" stroke-width="3" stroke-linejoin="round" stroke-linecap="round">
+    <ellipse cx="32" cy="59" rx="26" ry="2.5" fill="#322659" opacity="0.12" stroke="none"/>
+    <path d="M12 57 L16 21 L23 21 L20 57 Z" fill="#E5484D"/>
+    <path d="M52 57 L48 21 L41 21 L44 57 Z" fill="#E5484D"/>
+    <rect x="6" y="28" width="52" height="4.5" rx="2.25" fill="#E5484D"/>
+    <rect x="7" y="17" width="50" height="6" rx="3" fill="#E5484D"/>
+    <path d="M4 15 C 18 8 46 8 60 15 L60 9.5 C 46 3 18 3 4 9.5 Z" fill="#E5484D"/>
+  </g>
+</svg>

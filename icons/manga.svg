@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <title>manga</title>
+  <g stroke="#322659" stroke-width="3" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M32 16 C 25 11.5 15 10.5 7 13 L5 49 C 15 46.5 26 47.5 32 52 C 38 47.5 49 46.5 59 49 L57 13 C 49 10.5 39 11.5 32 16 Z" fill="#E5484D"/>
+    <path d="M32 19 C 26 15 17 14 10 15.5 L10 45 C 17 43.8 26 45 32 49 Z" fill="#FFF4E8"/>
+    <path d="M32 19 C 38 15 47 14 54 15.5 L54 45 C 47 43.8 38 45 32 49 Z" fill="#FFF4E8"/>
+    <path d="M14 23 H27 M14 27.5 H27 M14 32 H24" stroke-width="2" opacity="0.35" fill="none"/>
+    <rect x="39" y="21.5" width="11.5" height="9" rx="1.5" fill="none" stroke-width="2" opacity="0.35"/>
+    <rect x="39" y="33" width="11.5" height="8" rx="1.5" fill="none" stroke-width="2" opacity="0.35"/>
+  </g>
+</svg>

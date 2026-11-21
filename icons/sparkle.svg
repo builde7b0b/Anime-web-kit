@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <title>sparkle</title>
+  <g stroke="#322659" stroke-width="3" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M34 8 Q38 24 52 26 Q38 28 34 44 Q30 28 16 26 Q30 24 34 8 Z" fill="#FFD166"/>
+    <path d="M16 40 Q18.5 50 26 52 Q18.5 54 16 62 Q13.5 54 6 52 Q13.5 50 16 40 Z" fill="#FF9EC0" stroke-width="2.5"/>
+    <circle cx="47" cy="45" r="3.5" fill="#FF9EC0" stroke-width="2.5"/>
+    <circle cx="52" cy="12" r="2.5" fill="#FFD166" stroke-width="2"/>
+  </g>
+</svg>

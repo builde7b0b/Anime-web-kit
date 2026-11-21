@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <title>katana</title>
+  <g transform="rotate(45 32 32)" stroke="#322659" stroke-width="3" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M20 29.5 H47 C 51.5 29.5 55.5 31 58.5 32 C 55.5 33 51.5 34.5 47 34.5 H20 Z" fill="#DCE3F0"/>
+    <path d="M24 32 H44" stroke-width="1.8" opacity="0.3" fill="none"/>
+    <path d="M31 30.8 L39 30.8" stroke="#FFFFFF" stroke-width="2" opacity="0.9" fill="none"/>
+    <ellipse cx="19" cy="32" rx="3" ry="6.5" fill="#FFD166"/>
+    <rect x="8" y="29" width="10" height="6" rx="2.5" fill="#E5484D"/>
+    <path d="M11 29.5 L13 34.5 M15 29.5 L17 34.5" stroke-width="2" opacity="0.55" fill="none"/>
+    <circle cx="6.5" cy="32" r="3" fill="#FFD166"/>
+  </g>
+</svg>
